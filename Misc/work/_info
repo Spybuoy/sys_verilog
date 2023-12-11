@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Files/misc/FPGA Coursera/course2/week3/AAC2M3P4
+vadder
+!s110 1700254483
+!i10b 1
+!s100 <Tc[zRFm;[^9>LcJ9hEWC2
+Io>;ZH<W1KJnPPIef2<;Fa2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Files/System Verilog
+w1700254479
+8C:\Files\System Verilog\adder_v.v
+FC:\Files\System Verilog\adder_v.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1700254483.000000
+!s107 C:\Files\System Verilog\adder_v.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Files\System Verilog\adder_v.v|
+!i113 1
+o-work work
+Z3 tCvgOpt 0
+vadder_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1700254146
+!i10b 1
+!s100 [o><ThBm[CABU`4NI;7441
+IQ<1hNgbAH;adDVWSYnTlH3
+R0
+!s105 adder_tb_sv_unit
+S1
+R1
+w1700254141
+8C:/Files/System Verilog/adder_tb.sv
+FC:/Files/System Verilog/adder_tb.sv
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1700254146.000000
+!s107 C:/Files/System Verilog/adder_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Files/System Verilog/adder_tb.sv|
+!i113 1
+o-work work -sv
+R3
